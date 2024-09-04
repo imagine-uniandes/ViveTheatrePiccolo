@@ -1,0 +1,368 @@
+0,chaise_0,Lodge A1
+1,chaise_1,Lodge A2
+2,chaise_2,Lodge B1
+3,chaise_3,Lodge B2
+4,chaise_4,Logde C1
+5,chaise_5,Logde C2
+6,chaise_6,Logde C3
+7,chaise_7,Lodge D1
+8,chaise_8,Lodge D2
+9,chaise_9,Lodge D3
+10,chaise_10,Lodge E1
+11,chaise_11,Lodge E2
+12,chaise_12,Lodge E3
+13,chaise_13,Lodge F1
+14,chaise_14,Lodge F2
+15,chaise_15,Lodge F3
+16,chaise_16,Lodge G1
+17,chaise_17,Lodge G2
+18,chaise_18,Lodge G3
+19,chaise_19,Lodge H1
+20,chaise_20,Lodge H2
+21,chaise_21,Lodge H3
+22,chaise_22,Lodge I1
+23,chaise_23,Lodge I2
+24,chaise_24,Lodge I3
+25,chaise_25,Lodge J1
+26,chaise_26,Lodge J2
+27,chaise_27,Lodge J3
+28,chaise_28,Lodge K1
+29,chaise_29,Lodge K2
+30,chaise_30,Lodge M1
+31,chaise_31,Lodge M2
+32,chaise_32,Lodge N1
+33,chaise_33,Lodge N2
+34,chaise_34,Lodge N3
+35,chaise_35,Lodge M1
+36,chaise_36,Lodge M2
+37,chaise_37,Lodge M3
+38,chaise_38,Lodge O1
+39,chaise_39,Lodge O2
+40,chaise_40,Lodge O3
+41,chaise_41,Lodge P1
+42,chaise_42,Lodge P2
+43,chaise_43,Lodge P3
+44,fauteuil_44,Orchestre A1
+45,fauteuil_45,Orchestre A2
+46,fauteuil_46,Orchestre A3
+47,fauteuil_47,Orchestre A4
+48,fauteuil_48,Orchestre A5
+49,fauteuil_49,Orchestre A6
+50,fauteuil_50,Orchestre A7
+51,fauteuil_51,Orchestre A8
+52,fauteuil_52,Orchestre A9
+53,fauteuil_53,Orchestre A10
+54,fauteuil_54,Orchestre A11
+55,fauteuil_55,Orchestre A12
+56,fauteuil_56,Orchestre A13
+57,fauteuil_57,Orchestre A14
+58,fauteuil_58,Orchestre A15
+59,fauteuil_59,Orchestre A16
+60,fauteuil_60,Orchestre A17
+61,fauteuil_61,Orchestre B2
+62,fauteuil_62,Orchestre B3
+63,fauteuil_63,Orchestre B4
+64,fauteuil_64,Orchestre B5
+65,fauteuil_65,Orchestre B6
+66,fauteuil_66,Orchestre B7
+67,fauteuil_67,Orchestre B8
+68,fauteuil_68,Orchestre B9
+69,fauteuil_69,Orchestre B10
+70,fauteuil_70,Orchestre B11
+71,fauteuil_71,Orchestre B12
+72,fauteuil_72,Orchestre B13
+73,fauteuil_73,Orchestre B14
+74,fauteuil_74,Orchestre B15
+75,fauteuil_75,Orchestre B16
+76,fauteuil_76,Orchestre B17
+77,fauteuil_77,Orchestre B18
+78,fauteuil_78,Orchestre B1
+79,fauteuil_79,Orchestre C2
+80,fauteuil_80,Orchestre C3
+81,fauteuil_81,Orchestre C4
+82,fauteuil_82,Orchestre C5
+83,fauteuil_83,Orchestre C6
+84,fauteuil_84,Orchestre C7
+85,fauteuil_85,Orchestre C8
+86,fauteuil_86,Orchestre C9
+87,fauteuil_87,Orchestre C10
+88,fauteuil_88,Orchestre C11
+89,fauteuil_89,Orchestre C12
+90,fauteuil_90,Orchestre C13
+91,fauteuil_91,Orchestre C14
+92,fauteuil_92,Orchestre C15
+93,fauteuil_93,Orchestre C16
+94,fauteuil_94,Orchestre C17
+95,fauteuil_95,Orchestre C18
+96,fauteuil_96,Orchestre C1
+97,fauteuil_97,Orchestre D2
+98,fauteuil_98,Orchestre D3
+99,fauteuil_99,Orchestre D4
+100,fauteuil_100,Orchestre D5
+101,fauteuil_101,Orchestre D6
+102,fauteuil_102,Orchestre D7
+103,fauteuil_103,Orchestre D8
+104,fauteuil_104,Orchestre D9
+105,fauteuil_105,Orchestre D10
+106,fauteuil_106,Orchestre D11
+107,fauteuil_107,Orchestre D12
+108,fauteuil_108,Orchestre D13
+109,fauteuil_109,Orchestre D14
+110,fauteuil_110,Orchestre D15
+111,fauteuil_111,Orchestre D16
+112,fauteuil_112,Orchestre D17
+113,fauteuil_113,Orchestre D18
+114,fauteuil_114,Orchestre D1
+115,fauteuil_115,Orchestre F2
+116,fauteuil_116,Orchestre F3
+117,fauteuil_117,Orchestre F4
+118,fauteuil_118,Orchestre F5
+119,fauteuil_119,Orchestre F6
+120,fauteuil_120,Orchestre F7
+121,fauteuil_121,Orchestre F8
+122,fauteuil_122,Orchestre F9
+123,fauteuil_123,Orchestre F10
+124,fauteuil_124,Orchestre F11
+125,fauteuil_125,Orchestre F12
+126,fauteuil_126,Orchestre F13
+127,fauteuil_127,Orchestre F14
+128,fauteuil_128,Orchestre F15
+129,fauteuil_129,Orchestre F16
+130,fauteuil_130,Orchestre F17
+131,fauteuil_131,Orchestre F18
+132,fauteuil_132,Orchestre F1
+133,fauteuil_133,Orchestre G2
+134,fauteuil_134,Orchestre G3
+135,fauteuil_135,Orchestre G4
+136,fauteuil_136,Orchestre G5
+137,fauteuil_137,Orchestre G6
+138,fauteuil_138,Orchestre G7
+139,fauteuil_139,Orchestre G8
+140,fauteuil_140,Orchestre G9
+141,fauteuil_141,Orchestre G10
+142,fauteuil_142,Orchestre G11
+143,fauteuil_143,Orchestre G12
+144,fauteuil_144,Orchestre G13
+145,fauteuil_145,Orchestre G14
+146,fauteuil_146,Orchestre G15
+147,fauteuil_147,Orchestre G16
+148,fauteuil_148,Orchestre G17
+149,fauteuil_149,Orchestre G18
+150,fauteuil_150,Orchestre G1
+151,fauteuil_151,Orchestre H2
+152,fauteuil_152,Orchestre H3
+153,fauteuil_153,Orchestre H4
+154,fauteuil_154,Orchestre H5
+155,fauteuil_155,Orchestre H6
+156,fauteuil_156,Orchestre H7
+157,fauteuil_157,Orchestre H8
+158,fauteuil_158,Orchestre H9
+159,fauteuil_159,Orchestre H10
+160,fauteuil_160,Orchestre H11
+161,fauteuil_161,Orchestre H12
+162,fauteuil_162,Orchestre H13
+163,fauteuil_163,Orchestre H14
+164,fauteuil_164,Orchestre H15
+165,fauteuil_165,Orchestre H16
+166,fauteuil_166,Orchestre H17
+167,fauteuil_167,Orchestre H1
+168,fauteuil_168,Orchestre I2
+169,fauteuil_169,Orchestre I3
+170,fauteuil_170,Orchestre I4
+171,fauteuil_171,Orchestre I5
+172,fauteuil_172,Orchestre I6
+173,fauteuil_173,Orchestre I7
+174,fauteuil_174,Orchestre I8
+175,fauteuil_175,Orchestre I9
+176,fauteuil_176,Orchestre I10
+177,fauteuil_177,Orchestre I11
+178,fauteuil_178,Orchestre I12
+179,fauteuil_179,Orchestre I13
+180,fauteuil_180,Orchestre I14
+181,fauteuil_181,Orchestre I15
+182,fauteuil_182,Orchestre I16
+183,fauteuil_183,Orchestre I1
+184,fauteuil_184,Orchestre J2
+185,fauteuil_185,Orchestre J3
+186,fauteuil_186,Orchestre J4
+187,fauteuil_187,Orchestre J5
+188,fauteuil_188,Orchestre J6
+189,fauteuil_189,Orchestre J7
+190,fauteuil_190,Orchestre J8
+191,fauteuil_191,Orchestre J9
+192,fauteuil_192,Orchestre J10
+193,fauteuil_193,Orchestre J11
+194,fauteuil_194,Orchestre J12
+195,fauteuil_195,Orchestre J13
+196,fauteuil_196,Orchestre J14
+197,fauteuil_197,Orchestre J15
+198,fauteuil_198,Orchestre J1
+199,fauteuil_199,Orchestre K2
+200,fauteuil_200,Orchestre K3
+201,fauteuil_201,Orchestre K4
+202,fauteuil_202,Orchestre K5
+203,fauteuil_203,Orchestre K6
+204,fauteuil_204,Orchestre K7
+205,fauteuil_205,Orchestre K8
+206,fauteuil_206,Orchestre K9
+207,fauteuil_207,Orchestre K10
+208,fauteuil_208,Orchestre K11
+209,fauteuil_209,Orchestre K12
+210,fauteuil_210,Orchestre K13
+211,fauteuil_211,Orchestre K14
+212,fauteuil_212,Orchestre K1
+213,fauteuil_213,Orchestre L2
+214,fauteuil_214,Orchestre L3
+215,fauteuil_215,Orchestre L4
+216,fauteuil_216,Orchestre L5
+217,fauteuil_217,Orchestre L6
+218,fauteuil_218,Orchestre L7
+219,fauteuil_219,Orchestre L8
+220,fauteuil_220,Orchestre L9
+221,fauteuil_221,Orchestre L10
+222,fauteuil_222,Orchestre L11
+223,fauteuil_223,Orchestre L12
+224,fauteuil_224,Orchestre L13
+225,fauteuil_225,Orchestre L1
+226,fauteuil_226,Orchestre M2
+227,fauteuil_227,Orchestre M3
+228,fauteuil_228,Orchestre M4
+229,fauteuil_229,Orchestre M5
+230,fauteuil_230,Orchestre M6
+231,fauteuil_231,Orchestre M7
+232,fauteuil_232,Orchestre M8
+233,fauteuil_233,Orchestre M1
+234,fauteuil_234,Première Balcon Gouche A4
+235,fauteuil_235,Première Balcon Gouche A5
+236,fauteuil_236,Première Balcon Gouche A6
+237,fauteuil_237,Première Balcon Gouche A3
+238,fauteuil_238,Première Balcon Gouche A2
+239,fauteuil_239,Première Balcon Gouche A1
+240,fauteuil_240,Première Balcon Gouche B1
+241,fauteuil_241,Première Balcon Gouche B2
+242,fauteuil_242,Première Balcon Gouche B3
+243,fauteuil_243,Première Balcon Gouche B4
+244,fauteuil_244,Première Balcon Gouche B5
+245,fauteuil_245,Première Balcon Gouche B6
+246,fauteuil_246,Première Balcon Face A1
+247,fauteuil_247,Première Balcon Face A2
+248,fauteuil_248,Première Balcon Face A3
+249,fauteuil_249,Première Balcon Face A4
+250,fauteuil_250,Première Balcon Face A5
+251,fauteuil_251,Première Balcon Face A6
+252,fauteuil_252,Première Balcon Face A7
+253,fauteuil_253,Première Balcon Face A8
+254,fauteuil_254,Première Balcon Face A9
+255,fauteuil_255,Première Balcon Face A10
+256,fauteuil_256,Première Balcon Face A11
+257,fauteuil_257,Première Balcon Face A12
+258,fauteuil_258,Première Balcon Face A13
+259,fauteuil_259,Première Balcon Face A14
+260,fauteuil_260,Première Balcon Face A15
+261,fauteuil_261,Première Balcon Face A16
+262,fauteuil_262,Première Balcon Face A17
+263,fauteuil_263,Première Balcon Face A18
+264,fauteuil_264,Première Balcon Face A19
+265,fauteuil_265,Première Balcon Face A20
+266,fauteuil_266,Première Balcon Face A21
+267,fauteuil_267,Première Balcon Face A22
+268,fauteuil_268,Première Balcon Face A23
+269,fauteuil_269,Première Balcon Face A24
+270,fauteuil_270,Première Balcon Droite A4
+271,fauteuil_271,Première Balcon Droite A5
+272,fauteuil_272,Première Balcon Droite A6
+273,fauteuil_273,Première Balcon Droite A3
+274,fauteuil_274,Première Balcon Droite A2
+275,fauteuil_275,Première Balcon Droite A1
+276,fauteuil_276,Première Balcon Droite B1
+277,fauteuil_277,Première Balcon Droite B2
+278,fauteuil_278,Première Balcon Droite B3
+279,fauteuil_279,Première Balcon Droite B4
+280,fauteuil_280,Première Balcon Droite B5
+281,fauteuil_281,Première Balcon Droite B6
+282,fauteuil_282,Première Balcon Face B12
+283,fauteuil_283,Première Balcon Face B13
+284,fauteuil_284,Première Balcon Face B14
+285,fauteuil_285,Première Balcon Face B15
+286,fauteuil_286,Première Balcon Face B16
+287,fauteuil_287,Première Balcon Face B17
+288,fauteuil_288,Première Balcon Face B18
+289,fauteuil_289,Première Balcon Face B19
+290,fauteuil_290,Première Balcon Face B20
+291,fauteuil_291,Première Balcon Face B21
+292,fauteuil_292,Première Balcon Face B22
+293,fauteuil_293,Première Balcon Face B1
+294,fauteuil_294,Première Balcon Face B2
+295,fauteuil_295,Première Balcon Face B3
+296,fauteuil_296,Première Balcon Face B4
+297,fauteuil_297,Première Balcon Face B5
+298,fauteuil_298,Première Balcon Face B6
+299,fauteuil_299,Première Balcon Face B7
+300,fauteuil_300,Première Balcon Face B8
+301,fauteuil_301,Première Balcon Face B9
+302,fauteuil_302,Première Balcon Face B10
+303,fauteuil_303,Première Balcon Face B11
+304,fauteuil_304,Deuxième Balcon Gouche B1
+305,fauteuil_305,Deuxième Balcon Gouche B2
+306,fauteuil_306,Deuxième Balcon Gouche B3
+307,fauteuil_307,Deuxième Balcon Gouche B4
+308,fauteuil_308,Deuxième Balcon Gouche B5
+309,fauteuil_309,Deuxième Balcon Gouche B6
+310,fauteuil_310,Deuxième Balcon Gouche A3
+311,fauteuil_311,Deuxième Balcon Gouche A2
+312,fauteuil_312,Deuxième Balcon Gouche A1
+313,fauteuil_313,Deuxième Balcon Gouche A4
+314,fauteuil_314,Deuxième Balcon Gouche A5
+315,fauteuil_315,Deuxième Balcon Gouche A6
+316,fauteuil_316,Deuxième Balcon Gouche A7
+317,fauteuil_317,Deuxième Balcon Gouche A8
+318,fauteuil_318,Deuxième Balcon Gouche B7
+319,fauteuil_319,Deuxième Balcon Gouche B8
+320,fauteuil_320,Deuxième Balcon Gouche B9
+321,fauteuil_321,Deuxième Balcon Gouche B10
+322,fauteuil_322,Deuxième Balcon Gouche B11
+323,fauteuil_323,Deuxième Balcon Gouche A9
+324,fauteuil_324,Deuxième Balcon Gouche A10
+325,fauteuil_325,Deuxième Balcon Gouche A11
+326,fauteuil_326,Deuxième Balcon Gouche A12
+327,fauteuil_327,Deuxième Balcon Gouche A13
+328,fauteuil_328,Deuxième Balcon Gouche A14
+329,fauteuil_329,Deuxième Balcon Gouche A15
+330,fauteuil_330,Deuxième Balcon Gouche B12
+331,fauteuil_331,Deuxième Balcon Gouche B13
+332,fauteuil_332,Deuxième Balcon Gouche B14
+333,fauteuil_333,Deuxième Balcon Gouche B15
+334,fauteuil_334,Deuxième Balcon Gouche B16
+335,fauteuil_335,Deuxième Balcon Gouche B17
+336,fauteuil_336,Deuxième Balcon Droite B1
+337,fauteuil_337,Deuxième Balcon Droite B2
+338,fauteuil_338,Deuxième Balcon Droite B3
+339,fauteuil_339,Deuxième Balcon Droite B4
+340,fauteuil_340,Deuxième Balcon Droite B5
+341,fauteuil_341,Deuxième Balcon Droite B6
+342,fauteuil_342,Deuxième Balcon Droite A3
+343,fauteuil_343,Deuxième Balcon Droite A2
+344,fauteuil_344,Deuxième Balcon Droite A1
+345,fauteuil_345,Deuxième Balcon Droite A4
+346,fauteuil_346,Deuxième Balcon Droite A5
+347,fauteuil_347,Deuxième Balcon Droite A6
+348,fauteuil_348,Deuxième Balcon Droite A7
+349,fauteuil_349,Deuxième Balcon Droite A8
+350,fauteuil_350,Deuxième Balcon Droite B7
+351,fauteuil_351,Deuxième Balcon Droite B8
+352,fauteuil_352,Deuxième Balcon Droite B9
+353,fauteuil_353,Deuxième Balcon Droite B10
+354,fauteuil_354,Deuxième Balcon Droite B11
+355,fauteuil_355,Deuxième Balcon Droite B17
+356,fauteuil_356,Deuxième Balcon Droite B16
+357,fauteuil_357,Deuxième Balcon Droite B15
+358,fauteuil_358,Deuxième Balcon Droite B14
+359,fauteuil_359,Deuxième Balcon Droite B13
+360,fauteuil_360,Deuxième Balcon Droite B12
+361,fauteuil_361,Deuxième Balcon Droite A9
+362,fauteuil_362,Deuxième Balcon Droite A10
+363,fauteuil_363,Deuxième Balcon Droite A11
+364,fauteuil_364,Deuxième Balcon Droite A12
+365,fauteuil_365,Deuxième Balcon Droite A13
+366,fauteuil_366,Deuxième Balcon Droite A14
+367,fauteuil_367,Deuxième Balcon Droite A15
