@@ -34,7 +34,7 @@ To increase the sense of presence, we used binaural, spatialized sound using the
 
 5. Download the zip [PhononBetaBundle.zip](https://drive.google.com/file/d/1Kn1eo4fFq_UZZ2-yjs_pGUEqeW5cGxgr/view?usp=drive_link) and extract the content in the folder Assets/Plugins. It contains the Phonon libraries in its version beta. 
 
-6. There are two scenes 'MainSceneHD.scene' and 'MainSceneLD,scene', each one corresponds to the high-detail and low-detail virtual replicas of the theatre respectively. We recommed using the low-end in mobile-based HMDs. 
+6. There are two scenes 'MainSceneHD.scene' and 'MainSceneLD.scene', each one corresponds to the high-detail and low-detail virtual replicas of the theatre respectively. We recommed using the low-end in mobile-based HMDs. 
 
 7. Before executing the scene, we recommend bake the light in Unity3D with the suggested settings, use Deferred Lighting with no Aliasing for the high-end scene and Forward Rendering with MSSA x2 for the low-end scene. 
 
@@ -56,4 +56,3 @@ Developed by Jose L. Dorado (jl.dorado59@uniandes.edu.co,  jl-dorado@hotmail.com
 PhD thesis directed by Pablo Figuero (pfiguero@uniandes.edu.co), Jose Tiberio Hernandez (jhernand@uniandes.edu.co), Frederic Merienne (frederic.merienne@ensam.eu), Jean Remmy Chardonnet (jean-remy.chardonnet@ensam.eu)
 
 Copyright 2019 ©Institute Image https://artsetmetiers.fr/en/institut/chalon-sur-saone - Grupo Imagine Uniandes https://imagine.uniandes.edu.co
-# ViveTheatrePiccolo
